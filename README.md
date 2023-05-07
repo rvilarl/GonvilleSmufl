@@ -1,4 +1,4 @@
-# gonvillesmufl
+# gonvillesmufl <https://github.com/rvilarl/gonvillesmufl>
 Gonville (SMuFL)
 
 Based on the work from Simon Tatham's musical symbols font 'Gonville' 
